@@ -1,5 +1,3 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=chimaoshu&show_icons=true&theme=cobalt)
-
 ### Hi there 👋
 
 #### About me
@@ -18,3 +16,5 @@ JSON        🕓 2m    ▎░░░░░░░░░░░░░░░░░░
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=chimaoshu&show_icons=true&theme=cobalt)
