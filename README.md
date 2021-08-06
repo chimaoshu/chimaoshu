@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🏫 I’m currently study at ShenZhen University as an undergraduate student.
+- 🏫 ShenZhen University
 - 🛩️ blog  https://www.chimaoshu.top
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chimaoshu&show_icons=true&theme=cobalt)
