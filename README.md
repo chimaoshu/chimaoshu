@@ -4,6 +4,7 @@
 
 - 🏫 ShenZhen University
 - 🛩️ blog  https://www.chimaoshu.top
+- 🏢 Tencent Wechat Pay internship
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chimaoshu&show_icons=true&theme=cobalt)
 
