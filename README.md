@@ -5,8 +5,6 @@
 - 🏫 ShenZhen University
 - 🛩️ blog  https://www.chimaoshu.top
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chimaoshu&count_private=false&layout=compact&langs_count=6&theme=tokyonight&hide=html,css)  
-
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=chimaoshu&show_icons=true&theme=tokyonight) -->
 
 <!-- waka-box start -->
